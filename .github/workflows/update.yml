@@ -27,7 +27,7 @@ jobs:
       - name: Commit changes
         run: |
           git config user.name "github-actions"
-          git config user.email "github-actions@users.noreply.github.com"
+          git config user.email "conor.kiely.ie@gmail.com"
 
           git add README.md
 
