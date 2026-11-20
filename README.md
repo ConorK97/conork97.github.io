@@ -4,5 +4,5 @@ Hosting my first live website, CV page is up next.
 ## Last Updated
 
 <!--LAST_UPDATED-->
-2026-11-19 08:58 UTC
+2026-11-20 08:45 UTC
 <!--/LAST_UPDATED-->
